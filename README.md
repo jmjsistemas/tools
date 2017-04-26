@@ -2,30 +2,16 @@
 Aplicativos em javascript para o auxilio no desenvolvimento.
 
 ### sorter
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Helper para fazer ordenação alfabética de components e extensions do arquivo config.json.
+- [JMJ Sorter](https://jmjsistemas.github.io/sorter/).
 
 ### merger
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Helper para analise e combinação de components e extensions de dois arquivos config.json à fim de evitar conflitos ou falta de um ou mais caminhos.
+- [JMJ Merger](https://jmjsistemas.github.io/merger/).
 
 ### icontToPng
+Helper que convert icones css(FontAwesome e Icofont) em imagens PNG.
+- [JMJ IconToPng](https://jmjsistemas.github.io/IconToPng/).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jmjsistemas/tools/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Contactp
- [JMJ Sistemas e Consultoria ](https://jmjsistemas.com.br)
+### Contato
+- [JMJ Sistemas e Consultoria ](https://jmjsistemas.com.br)
