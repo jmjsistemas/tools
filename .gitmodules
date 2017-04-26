@@ -1,0 +1,9 @@
+[submodule "sorter"]
+	path = sorter
+	url = https://github.com/jmjsistemas/sorter.git
+[submodule "IconToPng"]
+	path = IconToPng
+	url = https://github.com/jmjsistemas/IconToPng.git
+[submodule "merger"]
+	path = merger
+	url = https://github.com/jmjsistemas/merger.git
